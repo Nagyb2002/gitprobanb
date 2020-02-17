@@ -8,8 +8,10 @@ namespace gitprobanb
 {
     class Program
     {
+        private
         static void Main(string[] args)
         {
+            
         }
     }
 }
